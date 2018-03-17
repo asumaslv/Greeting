@@ -18,28 +18,28 @@ As a matter of fact, I'm one of many who graduated from this school. I can still
 
 <!-- ## 卒業生への激励 -->
 
+Although I'm well aware that shorter comments are always better, I'd still like to say a few words about what I leaned in my life about the importance of self-affirmation. 
 さて、挨拶は、短い方が喜ばれることはわかっておりますが、卒業生の皆さんより僅かばかり早く生まれたことから、私がこれまでの人生で学んだ「自己肯定感の大切さ」について少しだけお話しさせてください
+The word self-affirmation might not sound too familiar to many of you. But all it is saying is simply that you feel "your existence is important and precious". 
 自己肯定感って聞いたことがある人が少ないと思います。でも言っていることは単純で簡単です。「`自分は大切な存在だ`」と感じることです。
 
-- 自分自身に満足している
-- 今の自分が好きだ
-- 自分には、良いところがある
+- You're content with who you are, 
+- You like how you are, 
+- You acknowledge something good within yourself. 
 
-と思うことです。
+Sadly, [study](http://www.kantei.go.jp/jp/singi/kyouikusaisei/chousakai/dai1/siryou4.pdf) shows that the level of self-affirmation is substantially lower in Japan compared to other countries. 
 
-残念ながら、文部科学省の調査では日本の子供たちは諸外国に比べ自己肯定感が低いという[結果](http://www.kantei.go.jp/jp/singi/kyouikusaisei/chousakai/dai1/siryou4.pdf)が出ています。
+Are you happy with who you are?
 
-皆さんは「自分が好きですか?」
+If you're happy with who you are, please raise your hand. 
 
-「自分が好き」という方は手を上げてください。
-
-多い場合
+Majority with hands raised:
 
 ```text only
 　皆さん手を上げられたように皆さんは素晴らし子どもたちです。その通り君たちは
 ```
 
-少ない場合:
+Minority with hands raised:
 
 ```text only
 　恥ずかしがって手を上げていないと思います。だって君たちは
