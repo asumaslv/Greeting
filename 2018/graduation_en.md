@@ -36,13 +36,13 @@ If you're happy with who you are, please raise your hand.
 Majority with hands raised:
 
 ```text only
-　皆さん手を上げられたように皆さんは素晴らし子どもたちです。その通り君たちは
+　As you raised your hands, you're great people, because..
 ```
 
 Minority with hands raised:
 
 ```text only
-　恥ずかしがって手を上げていないと思います。だって君たちは
+　I presume you're being shy, because..
 ```
 
 - たくさんの人が見ていた国際通りでの市民演芸・民俗伝統芸能パレードで堂々と踊っていた様子はとてもかっこよかった。
