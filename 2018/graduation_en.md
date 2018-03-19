@@ -19,9 +19,7 @@ As a matter of fact, I'm one of many who graduated from this school. I can still
 <!-- ## 卒業生への激励 -->
 
 Although I'm well aware that shorter comments are always better, I'd still like to say a few words about what I leaned in my life about the importance of self-affirmation. 
-さて、挨拶は、短い方が喜ばれることはわかっておりますが、卒業生の皆さんより僅かばかり早く生まれたことから、私がこれまでの人生で学んだ「自己肯定感の大切さ」について少しだけお話しさせてください
 The word self-affirmation might not sound too familiar to many of you. But all it is saying is simply that you feel "your existence is important and precious". 
-自己肯定感って聞いたことがある人が少ないと思います。でも言っていることは単純で簡単です。「`自分は大切な存在だ`」と感じることです。
 
 - You're content with who you are, 
 - You like how you are, 
