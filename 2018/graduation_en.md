@@ -1,4 +1,4 @@
-# Greetings as a representative of graduating parents
+# A few words to those graduating today
 
 <!-- ## 起承転結の「起」-->
 
@@ -48,14 +48,14 @@ Minority with hands raised:
 - 学習発表会での劇で、見ていた人たちを感動で包んだ君たちは素晴らしい。この学年から役者デビューする子がいるのは間違いないでしょう。
 - そして、なにより、日々の学校生活を素晴らしいものにするために協力した君たちの団結力は素晴らしい
 
-君たちは素晴らしい子どもたちです。あなたの親であることを心から喜び、誇らしく思っています。
-だから、君たちも自信をもって胸を張って自分を褒めてください。
+You are great kids with great potentials. I am truly happy to be your parent and am very proud of you. 
+Likewise, you should all be proud of yourselves, who you are and what you've accomplished. 
 
 <!-- ## 先生、地域の皆様への感謝 -->
 
-先生方、地域の皆さまには言葉では言い表せない程お世話になり、感謝しても感謝しきれません。
-子供たちの個性を伸ばし、やる気を引き出して頂き、どの子も活き活きとした明るく元気な子に成長しました。
-そして何よりも家庭では、教える事の出来ない学校での集団生活を通して、沢山の思い出や友だちという宝物を得ることができました。本当にありがとうございました。
+I do not even know how to thank enough by words to the teachers and those in the community. 
+You have nurtured their personality, developed their enthusiasm; you can see how cheerful our children have become. 
+Most importantly, they've gained many memories and friends in the school. I'd like to express my uthost appreciation.
 
 <!-- ## 結び -->
 
