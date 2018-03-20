@@ -59,18 +59,16 @@ Most importantly, they've gained many memories and friends in the school. I'd li
 
 <!-- ## 結び -->
 
-本日こうして卒業していく子供達ではありますが、まだまだ未熟でございます。
-先生方には卒業してからもご指導を頂くこともあるかと思いますが、どうぞ変わらぬご指導のほどお願いいたします。
-また、保護者の皆様にも、この小学校でのご縁をさらに深め、中学、高校と永きにわたるおつき合いの程よろしくお願い申し上げます。
+Those who are graduating today still have a lot to learn. 
+We may still need further guidance from the teachers, even after the graduation today. I'd like to ask you for your further assistance. 
+Furthermore, I would like to ask those parents to retain our ties, even our children are in middle schools and high schools. 
 
-卒業生のみなさん、
-中学校で別の学校、別のクラスになるような事があっても ぜひともこの学校で出会った友人たちを大切にして下さい。
-皆さんには無限の可能性があります。
+To those graduating today; even if you'd be going to different classes and to different schools, please do not forget your friends you made in this school 
+You all have futures with great potentials ahead of you. 
 
-以上、この会場いる全ての皆さんがこれから素晴らしい人生を送られることを願い、
-保護者代表の挨拶とさせて頂きます。
+I'd like to conclude by wishing all of you here today to have wonderful lives. 
 
 <p align="right">
-平成30年3月22日<br>
-卒業生保護者代表 米須 渉
+March 22nd, 2018<br>
+Representing parents of graduates, Wataru YONESU
 </p>
